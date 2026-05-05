@@ -1,4 +1,4 @@
-# Full stack starter template
+# Revival Engine logic
 
 Monorepository TypeScript template for full stack applications.
 
